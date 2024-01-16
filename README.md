@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Micahel Budnick (He/Him) 👨‍💻
+# 👋 Hello, World! I'm Michael Budnick (He/Him) 👨‍💻
 
 ## 🚀 About Me
 

@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Micahel Budnick (He/Him) 👨‍💻
+# 👋 Hello, World! I'm Michael Budnick (He/Him) 👨‍💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaeldbudnick/)](https://www.linkedin.com/in/michaeldbudnick/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaphoricmage?style=social)](https://twitter.com/intent/follow?screen_name=metaphoricmage)
