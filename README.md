@@ -18,25 +18,21 @@ I specialize in leading innovative, cloud-native projects to deliver High-Availa
 
 ## 🌟 What I Do
 
-- Python 33.3
-- JavaScript 24
-- Ruby 15
-- Tcl 11.6
-- C 7
-- HTML 2.6
-- Java 1.8
-- Other 4.3
-
 Since I joined GitHub 10 years ago, I have:
-- Contributed to 4
-- Pushed 2335 commits
+- Pushed 2336 commits
 - Opened 62 issues
 - Submitted 8 pull requests
 - Reviewed 0 PRs
-
-- 🏗️ Leading innovative projects
-- 🌐 Building High-Availability SaaS platforms
-- 🛡️ Designing secure development pipelines
+  
+- ☕ Java
+- 📊 SQL
+- 📜 Typescript
+- 🌍 Terraform 
+- 🤖 Ansible 
+- ☁️ Cloud-Native Development
+- 🏗️ Project Leading
+- 🌐 SaaS Products
+- 🚰 CI/CD Pipelines
 
 ## 🎓 Certifications
 
