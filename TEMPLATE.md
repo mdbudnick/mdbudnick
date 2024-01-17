@@ -18,20 +18,21 @@ I specialize in leading innovative, cloud-native projects to deliver High-Availa
 
 ## 🌟 What I Do
 
-{{ LANGUAGE_TEMPLATE_START:max=8 }}
-- {{ LANGUAGE_NAME }} {{ LANGUAGE_PERCENT }}
-{{ LANGUAGE_TEMPLATE_END }}
-
 Since I joined GitHub {{ ACCOUNT_AGE }} years ago, I have:
-- Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}
 - Pushed {{ COMMITS }} commits
 - Opened {{ ISSUES }} issues
 - Submitted {{ PULL_REQUESTS }} pull requests
 - Reviewed {{ CODE_REVIEWS }} PRs
-
-- 🏗️ Leading innovative projects
-- 🌐 Building High-Availability SaaS platforms
-- 🛡️ Designing secure development pipelines
+  
+- ☕ Java
+- 📊 SQL
+- 📜 Typescript
+- 🌍 Terraform 
+- 🤖 Ansible 
+- ☁️ Cloud-Native Development
+- 🏗️ Project Leading
+- 🌐 SaaS Products
+- 🚰 CI/CD Pipelines
 
 ## 🎓 Certifications
 
