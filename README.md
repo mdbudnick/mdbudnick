@@ -2,8 +2,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaeldbudnick/)](https://www.linkedin.com/in/michaeldbudnick/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaphoricmage?style=social)](https://twitter.com/intent/follow?screen_name=metaphoricmage)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michael.budnick/)
 [![Gmail Badge](https://img.shields.io/badge/-michaeldbudnick@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michaeldbudnick@gmail.com)](mailto:michaeldbudnick@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michael.budnick/)
 
 ## 🚀 About Me
 
@@ -19,11 +19,8 @@ I specialize in leading innovative, cloud-native projects to deliver High-Availa
 ## 🌟 What I Do
 
 Since I joined GitHub 10 years ago, I have:
-- Pushed 2336 commits
+- Pushed 2337 commits
 - Opened 62 issues
-- Submitted 8 pull requests
-- Reviewed 0 PRs
-  
 - ☕ Java
 - 📊 SQL
 - 📜 Typescript
