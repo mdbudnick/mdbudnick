@@ -3,7 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaeldbudnick/)](https://www.linkedin.com/in/michaeldbudnick/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaphoricmage?style=social)](https://twitter.com/intent/follow?screen_name=metaphoricmage)
 [![Gmail Badge](https://img.shields.io/badge/-michaeldbudnick@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michaeldbudnick@gmail.com)](mailto:michaeldbudnick@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michael.budnick/)
 
 ## 🚀 About Me
 
