@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Michael Budnick (He/Him) 👨‍💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/michaeldbudnick/)](https://www.linkedin.com/in/michaeldbudnick/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/metaphoricmage?style=social)](https://twitter.com/intent/follow?screen_name=metaphoricmage)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mdbudnick?style=social)](https://twitter.com/intent/follow?screen_name=mdbudnick)
 [![Gmail Badge](https://img.shields.io/badge/-michaeldbudnick@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:michaeldbudnick@gmail.com)](mailto:michaeldbudnick@gmail.com)
 
 ## 🚀 About Me
