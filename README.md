@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am an experienced Senior Software Developer based in New York City. My expertise spans across:
+I am an experienced Senior Software Developer. My expertise spans across:
 
 - ☁️ Cloud Infrastructure
 - 💻 Backend Engineering
@@ -24,7 +24,7 @@ Since I joined GitHub 10 years ago, I have:
 - 📊 SQL
 - 📜 Typescript
 - 🌍 Terraform 
-- 🤖 Ansible 
+- 🤖 Distributed Systems 
 - ☁️ Cloud-Native Development
 - 🏗️ Project Leading
 - 🌐 SaaS Products
@@ -40,8 +40,6 @@ Since I joined GitHub 10 years ago, I have:
 6. [AWS Certified Cloud Practitioner](https://www.credly.com/badges/595b50eb-6538-4c75-bb56-b164b4d108a2) (Valid: November 2023 - November 2026)
 
 ## 🌆 Life Beyond Code
-
-🚕 I call New York City my home 🌆, and I thrive on life's adventures! 
 
 When I'm not coding, you can find me:
 
