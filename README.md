@@ -45,7 +45,6 @@ When I'm not coding, you can find me:
 
 - 🚴‍♂️ Pedaling my bike
 - 📚 Reading history or literature
-- 🧗 Rock climbing at the gym
 - 👨‍🍳 Cooking post-workout recipes
 - 🎸 Strumming my guitar
 - 🖨️ Creating something with my 3D printer
